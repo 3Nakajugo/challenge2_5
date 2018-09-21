@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/8b23f670b8128ea02baf/maintainability)](https://codeclimate.com/github/3Nakajugo/challenge2_5/maintainability)
+
 # BankAccount.
 *the program is a simulation of a bank account. it enables the user to be able to open an account and be able to perform tasks like:*
 withdrawing
