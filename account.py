@@ -13,7 +13,8 @@ class BankAccount:
 
         return self.balance
 
-    def deposit(self, amount):
+    def deposit(self, amount
+    ):
         if self.status == False:
             raise ValueError('account closed')
 
