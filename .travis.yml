@@ -10,5 +10,5 @@ script:
   - pytest --cov=app/
 
 after_script:
-  - COVERALLS_REPO_TOKEN=$coveralls_repo_token coveralls
+  - coveralls
   
