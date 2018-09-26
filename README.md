@@ -1,5 +1,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/8b23f670b8128ea02baf/maintainability)](https://codeclimate.com/github/3Nakajugo/challenge2_5/maintainability)
 [![Build Status](https://travis-ci.org/3Nakajugo/challenge2_5.svg?branch=master)](https://travis-ci.org/3Nakajugo/challenge2_5)
+[![Coverage Status](https://coveralls.io/repos/github/3Nakajugo/challenge2_5/badge.svg?branch=master)](https://coveralls.io/github/3Nakajugo/challenge2_5?branch=master)
 
 # BankAccount.
 *the program is a simulation of a bank account. it enables the user to be able to open an account and be able to perform tasks like:*
